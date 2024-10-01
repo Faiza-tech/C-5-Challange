@@ -1,0 +1,15 @@
+C:\Users\Faiza\Documents\allDotnet\Challange-Subscrptions\bin\Debug\net8.0\Challange-Subscrptions.exe
+C:\Users\Faiza\Documents\allDotnet\Challange-Subscrptions\bin\Debug\net8.0\Challange-Subscrptions.deps.json
+C:\Users\Faiza\Documents\allDotnet\Challange-Subscrptions\bin\Debug\net8.0\Challange-Subscrptions.runtimeconfig.json
+C:\Users\Faiza\Documents\allDotnet\Challange-Subscrptions\bin\Debug\net8.0\Challange-Subscrptions.dll
+C:\Users\Faiza\Documents\allDotnet\Challange-Subscrptions\bin\Debug\net8.0\Challange-Subscrptions.pdb
+C:\Users\Faiza\Documents\allDotnet\Challange-Subscrptions\obj\Debug\net8.0\Challange-Subscrptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Faiza\Documents\allDotnet\Challange-Subscrptions\obj\Debug\net8.0\Challange-Subscrptions.AssemblyInfoInputs.cache
+C:\Users\Faiza\Documents\allDotnet\Challange-Subscrptions\obj\Debug\net8.0\Challange-Subscrptions.AssemblyInfo.cs
+C:\Users\Faiza\Documents\allDotnet\Challange-Subscrptions\obj\Debug\net8.0\Challange-Subscrptions.csproj.CoreCompileInputs.cache
+C:\Users\Faiza\Documents\allDotnet\Challange-Subscrptions\obj\Debug\net8.0\Challange-Subscrptions.sourcelink.json
+C:\Users\Faiza\Documents\allDotnet\Challange-Subscrptions\obj\Debug\net8.0\Challange-Subscrptions.dll
+C:\Users\Faiza\Documents\allDotnet\Challange-Subscrptions\obj\Debug\net8.0\refint\Challange-Subscrptions.dll
+C:\Users\Faiza\Documents\allDotnet\Challange-Subscrptions\obj\Debug\net8.0\Challange-Subscrptions.pdb
+C:\Users\Faiza\Documents\allDotnet\Challange-Subscrptions\obj\Debug\net8.0\Challange-Subscrptions.genruntimeconfig.cache
+C:\Users\Faiza\Documents\allDotnet\Challange-Subscrptions\obj\Debug\net8.0\ref\Challange-Subscrptions.dll
